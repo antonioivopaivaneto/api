@@ -1,0 +1,8 @@
+{
+  "condominios":[
+    {"id":1, "nome":"Amazonas"},
+    {"id":2, "nome":"Atlantica"},
+    {"id":3, "nome":"Forever"},
+  ],
+
+}
